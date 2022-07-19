@@ -10,8 +10,6 @@ Créer purement pour appréhender ce nouveau type de modèle issu des modèles T
 
 Les 2 premières partie concerne ktrain et ne fonctionne pas dût à un problème au sein de la Biliothèque, je pense.
 
-Petit projet sur la base de données (image, coord marqueurs du visage) pour classer des visage selon des émotions 
-
 # Repository Files:
 ```
 ├── REAMDE.md
